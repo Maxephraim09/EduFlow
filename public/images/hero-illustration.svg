@@ -1,0 +1,13 @@
+{{-- public/images/hero-illustration.svg --}}
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400">
+    <rect width="500" height="400" fill="#667eea" rx="20"/>
+    <text x="250" y="200" text-anchor="middle" fill="white" font-size="24" font-family="Arial">
+        School Management
+    </text>
+    <text x="250" y="230" text-anchor="middle" fill="#e0d4ff" font-size="16">
+        Complete Education Platform
+    </text>
+    <circle cx="150" cy="300" r="30" fill="rgba(255,255,255,0.2)"/>
+    <circle cx="350" cy="300" r="30" fill="rgba(255,255,255,0.2)"/>
+    <rect x="200" y="280" width="100" height="40" rx="20" fill="white" opacity="0.3"/>
+</svg>
